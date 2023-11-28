@@ -1,0 +1,11 @@
+{
+  "name": "@bratislava/eslint-plugin-no-raw-text-or-elements",
+  "version": "0.0.1",
+  "description": "Eslint rule for detecting html elements and raw text within them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miroslav Valkovic",
+  "license": "ISC"
+}
